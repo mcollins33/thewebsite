@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Creepster', cursive;
+    color: white;
+    font-size: 65px;
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+h4 {
+	font-family: 'Eater', cursive;
+	transform: rotate(-7deg);
+	margin-left: 35%;
+	margin-top: 20%;
+    color: white;
+}
+    
